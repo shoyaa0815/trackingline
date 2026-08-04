@@ -1,6 +1,6 @@
 This project is my line tracking code for microbit gigo
 
-Hardware
+## Hardware
 - microbit
 - GIGO blocks
 - 2 gigo motor
