@@ -1,11 +1,11 @@
-This project is my line tracking code for microbit gigo
+This project is my line tracking code for micro:bit GIGO
 
 ## Hardware
 - microbit
 - GIGO blocks
-- 2 gigo motor
-- 2 gigo servo
-- 2 gigo sensor
+- 2 GIGO motor
+- 2 GIGO servo
+- 2 GIGO sensor
 
 > Open this page at [https://shoyaa0815.github.io/trackingline/](https://shoyaa0815.github.io/trackingline/)
 
